@@ -1,0 +1,25 @@
+---------------------------------------------
+Task:
+User needs to know what is the area of a circle given the radius
+---------------------------------------------
+Algorithm (Steps to solve the task)
+1. Ask the user for the radius of the circle
+2. Calculate the area of the cicrle using the formula π * rˆ2
+3. Show the result to the user
+
+---------------------------------------------
+Pseudocode:
+
+Start
+    # Step 1: Ask the user for input on the radius
+    Show message: "Please provide radius of the circle: "
+    Read input and assign to variable called radius
+
+    #S Step 2: Calculate area with the input of radio using the formula area = π * rˆ2
+    Assing result to varable called area
+
+    # Step 3: Provide answer to user
+    Show message: "The area of the circle with radius {radius} is {area}"
+End
+
+----------------------------------------------
