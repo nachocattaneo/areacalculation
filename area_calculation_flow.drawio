@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
+  <diagram name="Page-1" id="AIX3xPPZdVhq_dtJ6PmJ">
+    <mxGraphModel dx="954" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xXVtpjbYyXtVZbInVx_Z-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xXVtpjbYyXtVZbInVx_Z-2" target="xXVtpjbYyXtVZbInVx_Z-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xXVtpjbYyXtVZbInVx_Z-2" value="&amp;nbsp; &amp;nbsp; Show message: &quot;Please provide radius of the circle: &quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="190" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xXVtpjbYyXtVZbInVx_Z-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xXVtpjbYyXtVZbInVx_Z-3" target="xXVtpjbYyXtVZbInVx_Z-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xXVtpjbYyXtVZbInVx_Z-3" value="Read input and asign to variable &quot;radius&quot;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="344" y="290" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="xXVtpjbYyXtVZbInVx_Z-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xXVtpjbYyXtVZbInVx_Z-4" target="xXVtpjbYyXtVZbInVx_Z-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xXVtpjbYyXtVZbInVx_Z-4" value="&lt;meta charset=&quot;utf-8&quot;&gt;Calculate area with the input of radio using the formula area = π * rˆ2" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="345" y="430" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="xXVtpjbYyXtVZbInVx_Z-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xXVtpjbYyXtVZbInVx_Z-5" target="xXVtpjbYyXtVZbInVx_Z-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xXVtpjbYyXtVZbInVx_Z-5" value="&lt;p&gt;Provide answer to user&lt;/p&gt;&lt;p&gt;    Show message: &quot;The area of the circle with radius {radius} is {area}&quot;&lt;/p&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="301" y="570" width="196" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xXVtpjbYyXtVZbInVx_Z-6" value="End" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="359" y="690" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xXVtpjbYyXtVZbInVx_Z-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xXVtpjbYyXtVZbInVx_Z-7" target="xXVtpjbYyXtVZbInVx_Z-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xXVtpjbYyXtVZbInVx_Z-7" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="90" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
